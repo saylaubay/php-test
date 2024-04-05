@@ -1,0 +1,14 @@
+{
+    "name": "saylaubay/php-test",
+    "autoload": {
+        "psr-4": {
+            "Saylaubay\\PhpTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sadfsafd"
+        }
+    ],
+    "require": {}
+}
