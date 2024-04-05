@@ -9,4 +9,9 @@ class User
         return "USER name for composer";
     }
 
+    public function getAt()
+    {
+        return "BILL GATES";
+    }
+
 }
