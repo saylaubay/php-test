@@ -12,6 +12,6 @@ class Adam
     }
     public function getJil()
     {
-        return "1994 jili";
+        return "1994 jili dekabr";
     }
 }
